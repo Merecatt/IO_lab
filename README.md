@@ -1,3 +1,4 @@
 # IO_lab
-Andrzej D¹browski
+Andrzej Dabrowski
 Adrianna Nowicka
+31.10.2018
