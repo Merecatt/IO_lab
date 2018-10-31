@@ -8,6 +8,7 @@ public class Bicycle {
         
     // the Bicycle class has
     // one constructor
+    // always look on the bride side of life
     public Bicycle(int startCadence, int startSpeed, int startGear) {
         gear = startGear;
         cadence = startCadence;
