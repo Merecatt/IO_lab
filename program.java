@@ -5,6 +5,7 @@ public class Bicycle {
     public int cadence;
     public int gear;
     public int speed;
+    //zmiana
         
     // the Bicycle class has
     // one constructor
@@ -17,6 +18,7 @@ public class Bicycle {
         
     // the Bicycle class has
     // four methods
+    //druga_zmiana
     public void setCadence(int newValue) {
         cadence = newValue;
     }
@@ -28,7 +30,7 @@ public class Bicycle {
     public void applyBrake(int decrement) {
         speed -= decrement;
     }
-        
+    //trzecia_zmiana   
     public void speedUp(int increment) {
         speed += increment;
     }
